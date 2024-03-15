@@ -5,6 +5,10 @@
             "write_to": "res/values/exported_colors.xml"
         },
         {
+            "invoke": "compose_colors.pr",
+            "write_to": "kotlin/bet/thescore/alleyoop/compose/ui/theme/Colors.kt"
+        },
+        {
             "invoke": "dimens.pr",
             "write_to": "res/values/exported_dimens.xml"
         },
